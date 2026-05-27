@@ -27,10 +27,9 @@ Este projeto faz parte do **Projeto Integrador I** da **UFSC (Campus Araranguá)
    - Abra o arquivo `index.html` no seu navegador.
 
 # Integrantes
-Manuel Etiene da Silva João
-Adir Leonardo Arruda Brasil
-Mamadjam Jaló
-* Nome do Colega 2
+* Adir Leonardo Arruda Brasil
+* Manuel Etiene da Silva João
+* Mamadjan Jaló
 
 # Orientação
 * **Professores:**

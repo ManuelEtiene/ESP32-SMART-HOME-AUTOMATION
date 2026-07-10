@@ -25,7 +25,7 @@ Este projeto faz parte do **Projeto Integrador I** da **UFSC (Campus Araranguá)
 * **Interface Local:** Display LCD 16x2 com módulo adaptador I2C PCF8574.
 * **Plataforma Cloud:** Sinric Pro
 * 
-* # software
+* # Software
 * Programação do ESP32 utilizando Arduino IDE
 * **Frontend:** HTML5, CSS3 e JavaScript
 * **Comunicação:** Wi-Fi e Protocolo MQTT/Websockets

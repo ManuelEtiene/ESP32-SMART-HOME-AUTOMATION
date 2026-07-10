@@ -1,4 +1,3 @@
-
 ```markdown
 # Configuração de Hardware e Mapeamento de Pinos
 
@@ -20,5 +19,5 @@
 | **LED Lâmpada** | GPIO 2 | Digital OUTPUT (Iluminação da Sala) |
 
 ## 🔌 Diagrama Elétrico e Conexões
-<img width="530" height="389" alt="image" src="https://github.com/user-attachments/assets/2e5ee2c7-7fdf-447b-9a46-320258b22925" />
 
+<img width="515" height="408" alt="image" src="https://github.com/user-attachments/assets/94c1a378-85d5-4d34-99f4-e48468439133" />

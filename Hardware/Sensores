@@ -1,3 +1,4 @@
+
 # Sensor de Pressão e Temperatura - BMP280
 
 O sensor BMP280 é utilizado no projeto para realizar as leituras constantes de temperatura ambiente para o algoritmo de climatização residencial e controle de histerese do Ar-Condicionado.

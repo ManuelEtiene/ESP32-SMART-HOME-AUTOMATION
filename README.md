@@ -50,8 +50,6 @@ Este projeto faz parte do **Projeto Integrador I** da **UFSC (Campus Araranguá)
 ### B. Modo Manual
 Qualquer comando direto vindo da Dashboard (`AC_ON`, `AC_OFF`, `LUZ_ON`, `LUZ_OFF`) assume o controlo, desativando a automação local. O sistema retorna ao modo automático apenas quando o comando `AUTO_ON` for enviado.
 
-## Estrutura do Packet de Telemetria (JSON)
-## Lógica de Funcionamento
 ## Como Rodar o Projeto**
 
 
@@ -63,17 +61,7 @@ Qualquer comando direto vindo da Dashboard (`AC_ON`, `AC_OFF`, `LUZ_ON`, `LUZ_OF
    - Clone este repositório.
    - Abra o arquivo `index.html` no seu navegador.
      
-## Estrutura do Packet de Telemetria (JSON)
-Enviado a cada 5 segundos pelo ESP32 via `ArduinoJson`:
-```json
-{
-  "temperatura": 25.43,
-  "luminosidade": 35,
-  "porta": false,
-  "ac": true,
-  "modoManual": false,
-  "luz": false
-}
+
 
 
 

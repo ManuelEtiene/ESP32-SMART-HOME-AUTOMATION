@@ -62,7 +62,7 @@ Qualquer comando direto vindo da Dashboard (`AC_ON`, `AC_OFF`, `LUZ_ON`, `LUZ_OF
 2. **Interface Web:**
    - Clone este repositório.
    - Abra o arquivo `index.html` no seu navegador.
-   - 
+     
 ## Estrutura do Packet de Telemetria (JSON)
 Enviado a cada 5 segundos pelo ESP32 via `ArduinoJson`:
 ```json

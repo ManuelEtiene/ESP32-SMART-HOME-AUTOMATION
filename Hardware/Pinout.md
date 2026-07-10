@@ -1,4 +1,4 @@
-<img width="684" height="624" alt="image" src="https://github.com/user-attachments/assets/cdfa40ad-4eac-48ab-b29a-87b3ec90b765" />
+
 ```markdown
 # Configuração de Hardware e Mapeamento de Pinos
 

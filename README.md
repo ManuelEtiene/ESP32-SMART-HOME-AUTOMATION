@@ -1,4 +1,4 @@
-# Sistema de Automação Residencial Inteligente (SmartHome IoT)
+# ESP32-SMART-HOME-AUTOMATION
 
 <div align="center">
 

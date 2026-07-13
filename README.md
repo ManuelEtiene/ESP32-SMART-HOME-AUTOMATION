@@ -9,7 +9,7 @@
 
 ---
 
-<img src="[INSERIR URL DA IMAGEM DO FRONT END NO NAVEGADOR AQUI]" alt="Dashboard Preview" width="800"/>
+<img src="images/dashboard_preview.jpeg" alt="Dashboard Preview" width="800"/>
 
 </div>
 
@@ -17,7 +17,7 @@
 
 ## 📋 Sobre o Projeto
 
-Este projeto foi desenvolvido como parte do **Projeto Integrador** do curso de **Engenharia de Computação** da **UFSC (Campus Araranguá)**. O objetivo principal é implementar um ecossistema de automação residencial de ponta a ponta (Full-Stack IoT), controlando atuadores e monitorando variáveis ambientais.
+Este projeto foi desenvolvido como parte do **Projeto Integrador I** do curso de **Engenharia de Computação** da **UFSC (Campus Araranguá)**. O objetivo principal é implementar um ecossistema de automação residencial de ponta a ponta (Full-Stack IoT), controlando atuadores e monitorando variáveis ambientais.
 
 O sistema destaca-se pela sua arquitetura híbrida robusta (*Edge/Cloud*). O processamento crítico de automação roda localmente no microcontrolador (garantindo resiliência), enquanto o histórico e a monitorização global ocorrem na nuvem através de um servidor Node.js próprio integrado ao MongoDB, com interface via Dashboard Web.
 
@@ -65,12 +65,12 @@ O repositório está organizado para separar as lógicas de nuvem e borda:
 <div align="center">
   <table border="0">
     <tr>
-      <td align="center"><b>Circuito Digital (Wokwi)</b><br/><img src="[INSERIR URL DA IMAGEM WOKWI AQUI]" width="380"/></td>
-      <td align="center"><b>Diagrama Elétrico</b><br/><img src="[INSERIR URL DA IMAGEM DIAGRAMA ELETRICO AQUI]" width="380"/></td>
+      <td align="center"><b>Circuito Digital (Wokwi)</b><br/><img src="images/digital_circuit_wowki.jpeg" width="380"/></td>
+      <td align="center"><b>Diagrama Elétrico</b><br/><img src="images/electric_diagram.png" width="380"/></td>
     </tr>
     <tr>
-      <td align="center"><b>Esquemático da PCB</b><br/><img src="[INSERIR URL DA IMAGEM ESQUEMATICO PCB AQUI]" width="380"/></td>
-      <td align="center"><b>PCB Visualização Real (3D)</b><br/><img src="[INSERIR URL DA IMAGEM PCB REAL 3D AQUI]" width="380"/></td>
+      <td align="center"><b>Esquemático da PCB</b><br/><img src="images/schematic_pcb.png" width="380"/></td>
+      <td align="center"><b>PCB Visualização Real (3D)</b><br/><img src="images/3d_pcb.png" width="380"/></td>
     </tr>
   </table>
 </div>
@@ -141,7 +141,7 @@ AUTOMAÇÃO DA ILUMINAÇÃO
 
 ---
 
-## Authors
+## Autores
 
 * **Adir Leonardo Arruda Brasil** ─ [GitHub](https://github.com/leunz)
 * **Mamadjan Jaló** ───────── [GitHub](https://github.com/JaloMamadjam)
